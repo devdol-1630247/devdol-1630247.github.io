@@ -1,0 +1,45 @@
+<head>
+	<title> Keith the QB </title>
+	<link rel="stylesheet" type="text/css" href="test.css" />
+</head>
+
+#Header{
+	h1{ font-size: 60px; font-family: "Roboto"; color: #18063A; font-weight: bold; }
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	}
+	
+#LeftNav{
+	text-align: center;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	float: left;
+	padding-bottom: 8px;
+	}
+	
+#Content{
+	text-align: center;
+	width: 700px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	padding: 15px;
+	}
+	
+#Footer{
+	text-align: center;
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+	border: solid 8px black;
+	
+	}
